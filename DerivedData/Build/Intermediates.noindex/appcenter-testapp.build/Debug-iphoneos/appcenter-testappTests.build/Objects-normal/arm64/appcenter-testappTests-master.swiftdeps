@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "49af8f92365a49188643e4b2a6fc5c04"
+build_time: [1590535008, 633247000]
+inputs:
+  "/Users/keevandance/Documents/xcode-projects/appcenter-testapp/appcenter-testappTests/appcenter_testappTests.swift": [1590188013, 307886575]

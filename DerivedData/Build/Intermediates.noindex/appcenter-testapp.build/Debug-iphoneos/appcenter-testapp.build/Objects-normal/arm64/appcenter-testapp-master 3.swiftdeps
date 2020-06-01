@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "80f562212db77eda855f87d40c40b268"
+build_time: [1590534127, 782016000]
+inputs:
+  "/Users/keevandance/Documents/xcode-projects/appcenter-testapp/appcenter-testapp/AppDelegate.swift": [1590188733, 100749246]
+  "/Users/keevandance/Documents/xcode-projects/appcenter-testapp/appcenter-testapp/SceneDelegate.swift": [1590188011, 736622765]
+  "/Users/keevandance/Documents/xcode-projects/appcenter-testapp/appcenter-testapp/ContentView.swift": [1590188011, 739750587]
