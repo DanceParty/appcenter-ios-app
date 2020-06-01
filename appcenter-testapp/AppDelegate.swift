@@ -21,6 +21,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
           MSAnalytics.self,
           MSCrashes.self
         ])
+        MSCrashes.generateTestCrash()
         // Override point for customization after application launch.
         return true
     }
